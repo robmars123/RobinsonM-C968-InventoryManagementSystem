@@ -1,1 +1,2 @@
-![image](https://github.com/robmars123/RobinsonM-C968-InventoryManagementSystem/assets/17890340/6e21072b-1ec7-4028-933c-15ca4af4c22e)
+
+![Picture1](https://github.com/robmars123/RobinsonM-C968-InventoryManagementSystem/assets/17890340/ebeccd6d-55a9-4903-bbcf-9feee0a3b08e)
